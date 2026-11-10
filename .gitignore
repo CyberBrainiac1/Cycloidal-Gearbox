@@ -1,0 +1,17 @@
+# No CAD or print files in this repo
+*.step
+*.stp
+*.STEP
+*.STP
+*.stl
+*.STL
+*.3mf
+*.obj
+*.f3d
+*.f3z
+*.sldprt
+*.sldasm
+*.iges
+*.igs
+*.gcode
+*.zip
